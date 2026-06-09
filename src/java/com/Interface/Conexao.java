@@ -5,6 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 
+
 public class Conexao {
     // Constantes ajudam a padronizar e facilitar alterações futuras
     // Constantes ajudam a padronizar e facilitar alterações futuras
